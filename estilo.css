@@ -1,0 +1,46 @@
+body{
+	background-color: #E65F00;
+	text-align:center;
+}
+
+.btn_large{
+	font-family: verdana, arial, sans-serif;
+   	font-size: 10pt;
+   	font-weight: bold;
+   	padding: 4px;
+   	background-color: #5e5e5e;
+   	color: #FFFFFF;
+   	text-decoration: none;
+}
+
+#modificar1{
+   	transition-property:all;
+	transition-duration:1s;
+	transition-timing-function: ease;
+	transition-delay: 1s;
+}
+
+#modificar1:hover{
+	transform:rotateX(360deg);
+}
+
+#modificar2{
+   	transition-property:all;
+	transition-duration:1s;
+	transition-timing-function: ease;
+	transition-delay: 1s;
+}
+
+#modificar2:hover{
+	transform:rotateX(360deg);
+}
+#modificar3{
+   	transition-property:all;
+	transition-duration:1s;
+	transition-timing-function: ease;
+	transition-delay: 1s;
+}
+
+#modificar3:hover{
+	transform:rotateX(360deg);
+}
